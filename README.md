@@ -1,6 +1,7 @@
 # 04-spring-ai-rest-with-memory
 
-# Spring AI Chat Application with Groq LLM
+
+## Spring AI Chat Application with Groq LLM
 
 A REST API application built with Spring Boot and Spring AI that provides chat functionality with conversation memory using the Groq LLM (via OpenAI-compatible API).
 
